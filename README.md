@@ -1,1 +1,1 @@
-# NeuroGuard-Distributed-AI-for-Resilient-and-Robust-IoT
+# NeuroGuard_SDP2
